@@ -115,6 +115,7 @@ body.dark-theme {
   position: fixed;
   top: 0;
   left: 0;
+  font-size: 22px;
   z-index: 100;
 }
 
