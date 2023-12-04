@@ -298,6 +298,7 @@ body.dark-theme {
   border-radius: 8px;
   font-weight: var(--font-weight-semibold);
   font-size: 1.125rem;
+  margin-left: 80px;
   text-align: center;
   color: var(--title-color);
   padding: 1rem 1.875rem;
